@@ -1,0 +1,48 @@
+ERROR: Failed to solve program: 'Failed to solve brillig function'
+At opcode 0: BRILLIG CALL func 0: PREDICATE = %EXPR [ 1 ]%
+inputs: [
+    Array(
+        [
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(0))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(1))], q_c: 0 }
+        ]
+    ),
+    Array(
+        [
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(2))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(3))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(4))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(5))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(6))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(7))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(8))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(9))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(10))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(11))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(12))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(13))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(14))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(15))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(16))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(17))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(18))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(19))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(20))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(21))], q_c: 0 }
+        ]
+    ),
+    Array(
+        [
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(22))], q_c: 0 },
+            Expression { mul_terms: [], linear_combinations: [(1, Witness(23))], q_c: 0 }
+        ]
+    )
+], 
+
+outputs: [
+    Array(
+        [
+            Witness(24), Witness(25), Witness(26), Witness(27), Witness(28), Witness(29), Witness(30), Witness(31), Witness(32), Witness(33)
+        ]
+    )
+]

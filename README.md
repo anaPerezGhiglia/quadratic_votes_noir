@@ -2,7 +2,7 @@
 
 This is an example of zk circuits with Noir.
 
-This project is based on [ZK HACK III](https://www.youtube.com/watch?v=5CziMfChveY) - original example [repo](https://github.com/joss-aztec/quadratic_voting_noir)
+This project is based on [ZK HACK III](https://www.youtube.com/watch?v=5CziMfChveY) - original example [repo](https://github.com/joss-aztec/quadratic_voting_noir) and [slides](https://drive.google.com/file/d/1VSawAf6f3HyAuWr_mV4Maj5GGQ6NHaEB/view)
 
 ---
 
